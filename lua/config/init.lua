@@ -28,7 +28,8 @@ local opts = {
 			"tohtml",
 			"tutor",
 			"zipPlugin",
-		},
+      "indent-blankline"
+      },
 	},
 }
 
